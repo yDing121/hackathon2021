@@ -2,4 +2,5 @@ https://github.com/yDing121/hackathon2021
 https://youtu.be/ueFjqaAUUdc
 
 personal access token for github repo (expires in about 5 days)
+git clone https://github.com/yDing121/hackathon2021.git
 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
